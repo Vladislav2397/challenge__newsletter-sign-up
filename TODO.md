@@ -1,0 +1,5 @@
+- [ ] Create design
+- [ ] Check logic for project
+    - [ ] Check validation form
+    - [ ] Check submitting form
+- [ ] Check semantic html, css, js
