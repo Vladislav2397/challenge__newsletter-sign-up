@@ -246,7 +246,11 @@ ul {
     min-height: 56px;
     border-radius: 8px;
     border: none;
-    background: linear-gradient(to right, hsl(347, 100, 66), hsl(13, 100, 62));
+    background: linear-gradient(
+        to right,
+        hsl(347, 100%, 66%),
+        hsl(13, 100%, 62%)
+    );
     color: var(--color-white);
     font-size: 16px;
     font-weight: 700;
